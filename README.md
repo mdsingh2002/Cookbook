@@ -1,2 +1,2 @@
 # Side-Projects-GitHub
- Here are my side projects on GitHub
+Using HTML, CSS and JavaScipt I make a cookbook
